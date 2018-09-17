@@ -1,11 +1,11 @@
 print(
         "\n###################################################"
         "\n          Prank CALL"
-        "\n     Mod By     : Gebang Kiidiw"
-        "\n     Contact Me : gebangkiidiw@gmail.com"
-        "\n     Blog       : www.gebangkiidiw.com"
-        "\n     Youtube    : Gebang Kiidiw"
-        "\n     Instagram  : @Bang_Joss24"
+        "\n     Mod By     : FUKING RIPER"
+        "\n     Contact Me : INDRA"
+        "\n     Blog       : SEMOGA KAU DI BERI BALASAN "
+        "\n     Youtube    : KARMA ITU ADA"
+        "\n     Instagram  : DUIT HARAM "
         "\n     Thanks To  : p4kl0nc4t"
         "\n###################################################"
 )
